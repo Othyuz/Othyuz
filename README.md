@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Othyuz
 - 👀 I’m a dev
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning things
+- 📫 Reach me
 
 <!-- TL;DR -->
 <!-- hi -->
